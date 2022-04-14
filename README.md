@@ -1,6 +1,6 @@
 # Quiz_project
 
-A new team project using Flutter.
+A new team project using Flutter. The project is a smartphone app that is used to play/share quizzes. This project was developed for educational reasons.
 
 
 # ScreenShots
@@ -45,3 +45,5 @@ flutter pub get
 ```
 flutter run
 ```
+
+# For more detailed documentation please refer to branch Documentation 
