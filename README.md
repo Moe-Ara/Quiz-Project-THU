@@ -1,6 +1,7 @@
 # Quiz_project
 
 A new team project using Flutter. The project is a smartphone app that is used to play/share quizzes. This project was developed for educational reasons.
+***(For more detailed documentation please refer to branch Documentation )***
 
 
 # ScreenShots
